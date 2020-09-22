@@ -67,6 +67,7 @@
     <Compile Include="Assets\Bandits - Pixel Art\Demo\CharacterSelector_Bandit.cs" />
     <Compile Include="Assets\Bandits - Pixel Art\Demo\Sensor_Bandit.cs" />
     <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\PlayerMovement.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/ardakaraman/Tulay Playformer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
