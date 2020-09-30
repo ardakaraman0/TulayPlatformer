@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{21136F6F-F66A-1AB0-8E1A-50B9F0968F09}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MainMenu.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerMovement.cs">
     <Files>
       <File FileName="Assets/MainMenu.cs" Line="21" Column="1" />
+      <File FileName="Assets/PlayerMovement.cs" Line="18" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Tulay Playformer" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="MainMenu.cs" selected="True" />
+              <Node name="PlayerMovement.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -17,7 +18,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="222734d4-2d2e-420b-be0b-c5e2f445a04b" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="87d5947e-47b9-4450-b068-b85ba4dd759e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
